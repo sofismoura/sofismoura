@@ -30,12 +30,9 @@ IDEs:
 <img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 </div>
 </div>
-<div align="center">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/voidstylegirl/voidstylegirl/output/github-contribution-grid-snake.svg"/>
-</div>
-<hr> 
+<br> 
 <div>
-<img align="center" src="https://github.com/voidstylegirl/voidstylegirl/assets/166918368/b5d09dfb-b1d0-4523-9927-095b006da042">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&center=true&random=false&width=500&lines=Thanks+for+the+attention!!! :)" alt="Typing SVG">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&section=footer">
+<img width 50% align="center" src="![cogumeloo](https://github.com/voidstylegirl/voidstylegirl/assets/166918518/7836d811-ab13-4bb5-8903-a091bcddcf98)">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&center=true&center=true&random=false&width=500&lines=Muito+obrigada+pela+atenção ❣️" alt="Typing SVG">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9400D3&section=footer">
 </div>
