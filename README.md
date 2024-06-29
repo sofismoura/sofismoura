@@ -1,3 +1,3 @@
 <div style="display: inline-block;">
-<img width 100% src ="https://camo.githubusercontent.com/53bbded0cd52cfb76da9566070365f68c901c7580221db748af6c44897de057b/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032342f3835382f3639392f6f726967696e616c2f706978656c2d6a6566662d6469766f6f6d2e6769663f31353833373731393034" alt="Typing SVG" >
+<img width 100% src ="https://voidstylegirl.com/image/538fc2cf84256c90cf0a26db8a70a46c/Konachan.com%20-%20367024%20all_male%20animal%20animated%20building%20cat%20city%20clouds%20male%20moon%20night%20original%20pixeljeff%20sky%20stars%20watermark.gif" alt="Typing SVG" >
 </div>
