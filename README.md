@@ -30,10 +30,13 @@ IDEs:
 <img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </div>
-</div>
 <br> 
 <div>
 <img width 50% align="center" src="![cogumeloo](https://github.com/voidstylegirl/voidstylegirl/assets/166918518/7836d811-ab13-4bb5-8903-a091bcddcf98)">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&center=true&center=true&random=false&width=500&lines=Muito+obrigada+pela+atenção ❣️" alt="Typing SVG">
+<br>
+<img width 50% align="left src="![image](https://github.com/user-attachments/assets/a31170f7-71d4-402c-aac2-77883772c56f)>
+
+</br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9400D3&section=footer">
 </div>
