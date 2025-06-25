@@ -1,8 +1,6 @@
 <div style="display: inline-block;">
 <img width 100% src ="https://konachan.com/image/538fc2cf84256c90cf0a26db8a70a46c/Konachan.com%20-%20367024%20all_male%20animal%20animated%20building%20cat%20city%20clouds%20male%20moon%20night%20original%20pixeljeff%20sky%20stars%20watermark.gif" alt="Typing SVG" >
 <br>
-  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&left=true&left=true&random=false&width=500&lines=Hello+my+name+is+Sofia!;I+am+17+years+old;Welcome+to+my+profile!+😄" alt="Typing SVG">
-<br>
 <img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=sofismoura&show_icons=true&theme=dracula">
   <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofismoura&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe"/>
 </div>
@@ -32,7 +30,6 @@ IDEs:
 </div>
 <br> 
 <div>
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&center=true&center=true&random=false&width=500&lines=Muito+obrigada+pela+atenção ❣️" alt="Typing SVG">
 <img height=30% width=30% align="left" src="https://github.com/user-attachments/assets/deccbf56-4741-485b-94eb-81f1a8bab2aa" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9400D3&section=footer"/>
 </div>
