@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./painel_github.png" width="1100px" alt="Sofia Painel">
-</p>
+
 <h3 align="center" style="color:#B30000;">Oii, eu sou a Sofia Moura, criadora de conteúdo de programação e tecnologia!</h3>
 
 <br>
